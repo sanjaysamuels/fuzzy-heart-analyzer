@@ -1,0 +1,9 @@
+RULE 1: If the heart rate and blood pressure and temperature is low then body condition is low
+
+
+
+RULE 2: if the heart rate and temperature is medium then body condition is medium
+
+
+
+RULE 3: if the heart rate and temperature and blood pressure is high then the body condition is high 
